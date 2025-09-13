@@ -1,2 +1,8 @@
-# mini-games-website
-A collection of simple online mini-games built with HTML, CSS, and JavaScript. Play games like Snake and Memory directly in your browser.
+# My Game
+# 🎮 Mini Game Online
+
+A simple web project featuring two classic games you can play directly in your browser:  
+- **Tic Tac Toe** (Player vs Player and Player vs AI 🤖)  
+- **Snake** 🐍  
+
+Built with **HTML, CSS, and JavaScript**.
